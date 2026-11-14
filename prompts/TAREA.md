@@ -49,3 +49,9 @@ Antes de implementar la solución, analiza paso a paso los requisitos e identifi
 Una vez desarrollado el código, realiza una autocrítica para detectar errores, validaciones faltantes o incumplimientos de los requisitos. Corrige los problemas identificados antes de presentar la solución definitiva.
 ```
 ## Tecnicas usadas en el prompt final 
+
+| Técnica utilizada | Fragmento / Sección del prompt final | 
+| :--- | :--- | 
+| **Role Prompting** | *"Actúa como un desarrollador Backend Java Senior especializado en programación orientada a objetos y validación defensiva de datos..."* | 
+| **Chain of Thought** | *"Antes de implementar la solución, analiza paso a paso los requisitos e identifica posibles casos límite."* | 
+| **Autocrítica** | *"Una vez desarrollado el código, realiza una autocrítica para detectar errores, validaciones faltantes o incumplimientos de los requisitos. Corrige los problemas identificados..."* | 
